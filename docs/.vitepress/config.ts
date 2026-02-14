@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/2bb2-IP/',
   title: '2bb2 IP Documentation',
   description: 'Intellectual Property Documentation for the 2bb2 Marketplace Platform',
   themeConfig: {
